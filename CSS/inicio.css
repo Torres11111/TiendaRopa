@@ -1,3 +1,7 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500&display=swap');
+
+
 .inicio{
     --opacidad-negro: 0.5;
     background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../IMG/DreamShaper_v7_logo_tienda_de_ropa_moderna_para_hombre_y_mujer_3-_1_.webp");
@@ -5,3 +9,16 @@
     background-size: cover;
     height:50rem;  
     }
+
+.navbar-brand{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.2rem;
+    color: white;
+}
+
+.nav-link{
+    font-family: 'Montserrat', sans-serif;
+    margin-right: 10px;
+    margin-left: 10px;
+    color: white;
+}
