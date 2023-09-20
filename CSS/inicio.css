@@ -22,3 +22,7 @@
     margin-left: 10px;
     color: white;
 }
+
+.nav-link:hover{
+    color: rgb(77, 244, 6);
+}
